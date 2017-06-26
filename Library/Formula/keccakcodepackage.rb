@@ -2,7 +2,7 @@
 #                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
-class Keccak < Formula
+class Keccakcodepackage < Formula
   desc "Provide Keccak hash functionality"
   homepage "https://github.com/gvanas/KeccakCodePackage/tree/master/KeccakSum"
   url "https://github.com/gvanas/KeccakCodePackage/archive/master.zip"
