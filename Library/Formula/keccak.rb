@@ -5,9 +5,11 @@
 class Keccak < Formula
   desc "Provide Keccak hash functionality"
   homepage "https://github.com/gvanas/KeccakCodePackage/tree/master/KeccakSum"
-  url "https://github.com/gvanas/KeccakCodePackage/archive/master.zip"
-  version ""
-  sha256 ""
+#   url "https://github.com/gvanas/KeccakCodePackage/archive/master.zip"
+  url "https://github.com/gvanas/KeccakCodePackage/archive/40e998679d8a5da8a4b5cea32c021ee7e073ba16.zip"
+  version "40e998679d8a5da8a4b5cea32c021ee7e073ba16"
+  # sha256 "a3c2dde7f49e0aaaf12a6c8c06cc1cf58713e69fbccd44b6b1243e6792a149ca"
+  sha1 "d9491623235cc2a0163de053978a173af1fdb1e9"
 
   # depends_on "cmake" => :build
 
